@@ -13,14 +13,24 @@ More instructions at [Alfred Help and Support > Appearance & Theming](https://ww
 
 ### macOS Big Sur Spotlight native-like
 
-- [macOS Big Sur Light](macOS-BigSur-Light.alfredappearance): native-like, light appearance, multicolor/blue accent, system font
-- [macOS Big Sur Dark](macOS-BigSur-Dark.alfredappearance): native-like, dark appearance, multicolor/blue accent, system font
+[macOS Big Sur Light](macOS-BigSur-Light.alfredappearance): native-like, light appearance, multicolor/blue accent, system font
+
+![macOS Big Sur Light preview](macOS-BigSur-Light.png)
+
+[macOS Big Sur Dark](macOS-BigSur-Dark.alfredappearance): native-like, dark appearance, multicolor/blue accent, system font
+
+![macOS Big Sur Dark preview](macOS-BigSur-Dark.png)
 
 ### macOS inspired, developer tooling hybrid
 
-- [macOS Big Sur Dark Dev](macOS-BigSur-Dark-Dev.alfredappearance): inspired, dark appearance, grey accent, monospaced system font ([Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)))
-- [macOS Big Sur Dark Dev SFMono](macOS-BigSur-Dark-Dev-SFMono.alfredappearance): inspired, dark appearance, grey accent, monospaced system font ([SF Mono](https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)))
-  - Note: SF Mono needs a few extra steps to be used by applications. Download at [Apple Developer Font site](https://developer.apple.com/fonts/) or [extract from `Terminal.app`](https://osxdaily.com/2018/01/07/use-sf-mono-font-mac/).
+[macOS Big Sur Dark Dev](macOS-BigSur-Dark-Dev.alfredappearance): inspired, dark appearance, grey accent, monospaced system font ([Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)))
+
+![macOS Big Sur Dark Dev preview](macOS-BigSur-Dark-Dev.png)
+
+[macOS Big Sur Dark Dev SFMono](macOS-BigSur-Dark-Dev-SFMono.alfredappearance): inspired, dark appearance, grey accent, monospaced system font ([SF Mono](https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface))).
+_Note: SF Mono needs a few extra steps to be used by applications. Download at [Apple Developer Font site](https://developer.apple.com/fonts/) or [extract from `Terminal.app`](https://osxdaily.com/2018/01/07/use-sf-mono-font-mac/)._
+
+![macOS Big Sur Dark Dev SF Mono preview](macOS-BigSur-Dark-Dev-SFMono.png)
 
 ## License
 
