@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#BEBEBEF2",
+        "font" : "Menlo",
+        "color" : "#6E6E6EF2"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Menlo",
+        "color" : "#6E6E6EF2"
+      },
+      "backgroundSelected" : "#8C8C8C7F",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Menlo",
+        "color" : "#ECECECF2"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 5,
+      "paddingVertical" : 8,
+      "iconSize" : 32
+    },
+    "search" : {
+      "background" : "#27272700",
+      "paddingVertical" : 0,
+      "spacing" : 14,
+      "text" : {
+        "size" : 22,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Menlo",
+        "color" : "#FFFFFFFF"
+      },
+      "roundness" : 5,
+      "backgroundSelected" : "#8C8C8C7F"
+    },
+    "window" : {
+      "color" : "#2727277F",
+      "paddingHorizontal" : 12,
+      "width" : 656,
+      "borderPadding" : 0,
+      "borderColor" : "#8C8C8C7F",
+      "blur" : 0,
+      "roundness" : 10,
+      "paddingVertical" : 12
+    },
+    "credit" : "github.com/marnovo",
+    "visualEffectMode" : 2,
+    "separator" : {
+      "color" : "#27272700",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#8C8C8C7F",
+      "thickness" : 2
+    },
+    "name" : "macOS Big Sur Dark Dev"
+  }
+}
